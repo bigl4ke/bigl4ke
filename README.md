@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Howard.
 
 MSCS @ Northwestern University  
 Applied AI / ML Systems | Evaluation | Serving | Production-style AI
