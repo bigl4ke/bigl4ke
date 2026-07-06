@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Howard
 
 MSCS @ Northwestern University  
 Applied AI / ML Systems | Evaluation | Serving | Production-style AI
@@ -35,7 +35,3 @@ I build systems that connect models, data, evaluation, and deployment under real
 - Benchmarking LLM serving trade-offs across latency, throughput, memory, and quality
 - Writing technical reports for each project: problem, baseline, method, evaluation, deployment, and failure modes
 
-## Contact
-
-- LinkedIn: [your-linkedin]
-- Email: [professional-email]
