@@ -39,8 +39,3 @@ Pinned repositories will focus on:
 3. ML evaluation and error analysis  
 4. Edge / vision inference  
 5. Systems notes and engineering practice  
-
-## 📫 Contact
-
-- LinkedIn: [your-linkedin]
-- Email: [professional-email]
