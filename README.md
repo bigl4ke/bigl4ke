@@ -1,37 +1,46 @@
-# Hi, I'm Howard
+# Hi, I'm [Your Name]
 
 MSCS @ Northwestern University  
 Applied AI / ML Systems | Evaluation | Serving | Production-style AI
 
-I build systems that connect models, data, evaluation, and deployment under real-world constraints.
+I’m focused on building systems that connect models, data, evaluation, and deployment under real-world constraints.
 
-## Current Focus
+## 🧭 Current Focus
 
-- Applied AI systems: RAG, ranking, LLM evaluation, structured outputs
+- Applied AI systems: RAG, ranking, structured outputs, LLM evaluation
 - ML systems: inference serving, latency/cost benchmarking, Dockerized deployment
 - Production AI: monitoring, failure modes, error analysis, deployment trade-offs
 
-## Selected Projects
+## 🚧 Currently Building
 
-| Project | What it demonstrates | Stack | Evidence |
-|---|---|---|---|
-| AI Job Intelligence System | Job matching with skill extraction, retrieval, ranking, and evaluation | FastAPI, embeddings, BM25, SQLite/Postgres | Recall@K, NDCG@10, p95 latency |
-| LLM Serving Eval Lab | Inference benchmark and quality/cost trade-off | Docker, FastAPI, llama.cpp/vLLM | tokens/s, p50/p95, memory |
-| Edge Vision Inference Lab | Video inference and deployment pipeline | OpenCV, ONNX/TensorRT, Docker | FPS, latency, failure cases |
-| RAG Eval Mini | Retrieval and generation evaluation harness | Python, embeddings, structured outputs | retrieval precision, hallucination cases |
-| ML Evaluation Cookbook | Practical ML metrics and error analysis | Python, sklearn, pandas | metric notes, examples, failure modes |
+- `ai-job-intelligence-system` — an AI system for analyzing ML / Applied AI job descriptions, skill gaps, and role fit
+- `llm-serving-eval-lab` — a small benchmark lab for LLM inference latency, throughput, memory, and quality trade-offs
+- `ml-evaluation-cookbook` — practical notes on metrics, error analysis, model drift, and evaluation design
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 **Languages:** Python, C++, SQL, JavaScript/TypeScript  
 **ML / AI:** PyTorch, scikit-learn, embeddings, RAG, ranking, evaluation  
 **Systems:** FastAPI, Docker, Linux, REST APIs, logging, benchmarking  
 **Data:** SQLite, PostgreSQL, pandas, feature extraction, data cleaning  
-**Deployment:** Docker Compose, cloud deployment, monitoring basics
 
-## Current Roadmap
+## 📚 Learning Roadmap
 
-- Building a production-style AI job matching system with retrieval, ranking, and evaluation
-- Benchmarking LLM serving trade-offs across latency, throughput, memory, and quality
-- Writing technical reports for each project: problem, baseline, method, evaluation, deployment, and failure modes
+- Building production-style AI projects with clear baselines, metrics, and failure analysis
+- Strengthening ML fundamentals, algorithms, SQL, and system design
+- Writing technical reports for each project: problem, method, evaluation, deployment, and next steps
 
+## 📌 Coming Soon
+
+Pinned repositories will focus on:
+
+1. Applied AI systems  
+2. LLM serving and evaluation  
+3. ML evaluation and error analysis  
+4. Edge / vision inference  
+5. Systems notes and engineering practice  
+
+## 📫 Contact
+
+- LinkedIn: [your-linkedin]
+- Email: [professional-email]
