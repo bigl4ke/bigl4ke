@@ -1,5 +1,5 @@
 # Hi, I'm Howard.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigl4ke)
 MSCS @ Northwestern University  
 Applied AI / ML Systems | Evaluation | Serving | Production-style AI
 
