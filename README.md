@@ -1,5 +1,5 @@
 # Hi, I'm Howard.
-![visitors](https://visitor-badge.glitch.me/badge?bigl4ke=bigl4ke&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bigl4ke&left_color=green&right_color=red)
 
 MSCS @ Northwestern University  
 Applied AI / ML Systems | Evaluation | Serving | Production-style AI
