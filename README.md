@@ -80,19 +80,3 @@ I use small, reproducible projects to study the behavior of AI systems beyond th
 The goal is simple:
 
 > **Build it → measure it → understand why it fails → improve it.**
-
----
-
-## 🔗 Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Howardz@u.northwestern.edu">
-    <img src="https://img.shields.io/badge/Email-Northwestern-4E2A84?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/bigl4ke">
-    <img src="https://img.shields.io/badge/GitHub-bigl4ke-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
